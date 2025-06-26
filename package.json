@@ -1,0 +1,46 @@
+{
+  "name": "@symbiot.dev/react-native-retro-grid",
+  "version": "1.0.0",
+  "description": "A retro-style pixel animation grid component for React Native, ideal for creating nostalgic, low-res visual effects and animated patterns.",
+  "main": "./index.esm.js",
+  "types": "./src/index.d.ts",
+  "keywords": [
+    "react-native",
+    "retro",
+    "grid",
+    "pixel",
+    "animation",
+    "canvas",
+    "visualization",
+    "expo",
+    "low-res"
+  ],
+  "files": [
+    "./src/**",
+    "./CHANGELOG.md",
+    "./index.esm.d.ts",
+    "./index.esm.js",
+    "./LICENSE",
+    "./README.md"
+  ],
+  "author": {
+    "name": "Symbiot",
+    "email": "info@symbiot.dev",
+    "url": "https://symbiot.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://symbiot.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symbiotdev/react-native-retro-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/symbiotdev/react-native-retro-grid/issues"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "module": "./index.esm.js",
+  "type": "module"
+}
